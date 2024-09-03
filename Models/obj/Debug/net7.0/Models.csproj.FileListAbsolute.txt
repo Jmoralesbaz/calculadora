@@ -1,0 +1,11 @@
+D:\Proyectos\Tests\Calculadora\Models\bin\Debug\net7.0\Models.deps.json
+D:\Proyectos\Tests\Calculadora\Models\bin\Debug\net7.0\Models.dll
+D:\Proyectos\Tests\Calculadora\Models\bin\Debug\net7.0\Models.pdb
+D:\Proyectos\Tests\Calculadora\Models\obj\Debug\net7.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\Tests\Calculadora\Models\obj\Debug\net7.0\Models.AssemblyInfoInputs.cache
+D:\Proyectos\Tests\Calculadora\Models\obj\Debug\net7.0\Models.AssemblyInfo.cs
+D:\Proyectos\Tests\Calculadora\Models\obj\Debug\net7.0\Models.csproj.CoreCompileInputs.cache
+D:\Proyectos\Tests\Calculadora\Models\obj\Debug\net7.0\Models.dll
+D:\Proyectos\Tests\Calculadora\Models\obj\Debug\net7.0\refint\Models.dll
+D:\Proyectos\Tests\Calculadora\Models\obj\Debug\net7.0\Models.pdb
+D:\Proyectos\Tests\Calculadora\Models\obj\Debug\net7.0\ref\Models.dll

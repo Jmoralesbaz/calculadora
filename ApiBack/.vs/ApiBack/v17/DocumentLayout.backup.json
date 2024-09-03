@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos\\Tests\\Calculadora\\ApiBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A00DECE-02CD-4599-A6BF-DE37954D93E9}|..\\Models\\Models.csproj|d:\\proyectos\\tests\\calculadora\\models\\generics\\resultresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A00DECE-02CD-4599-A6BF-DE37954D93E9}|..\\Models\\Models.csproj|d:\\proyectos\\tests\\calculadora\\models\\generics\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A00DECE-02CD-4599-A6BF-DE37954D93E9}|..\\Models\\Models.csproj|d:\\proyectos\\tests\\calculadora\\models\\operationbasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A00DECE-02CD-4599-A6BF-DE37954D93E9}|..\\Models\\Models.csproj|d:\\proyectos\\tests\\calculadora\\models\\factorialvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E60DB94-60BF-48C2-8765-60E07D5AEF1A}|..\\Bussiness\\Bussiness.csproj|d:\\proyectos\\tests\\calculadora\\bussiness\\operations\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47CB6418-D442-49A0-9F1C-782202FE65DE}|ApiBack.csproj|d:\\proyectos\\tests\\calculadora\\apiback\\controllers\\bcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47CB6418-D442-49A0-9F1C-782202FE65DE}|ApiBack.csproj|solutionrelative:controllers\\bcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47CB6418-D442-49A0-9F1C-782202FE65DE}|ApiBack.csproj|d:\\proyectos\\tests\\calculadora\\apiback\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47CB6418-D442-49A0-9F1C-782202FE65DE}|ApiBack.csproj|solutionrelative:controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47CB6418-D442-49A0-9F1C-782202FE65DE}|ApiBack.csproj|d:\\proyectos\\tests\\calculadora\\apiback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47CB6418-D442-49A0-9F1C-782202FE65DE}|ApiBack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A00DECE-02CD-4599-A6BF-DE37954D93E9}|..\\Models\\Models.csproj|d:\\proyectos\\tests\\calculadora\\models\\generics\\errormessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResultResponse.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Tests\\Calculadora\\Models\\Generics\\ResultResponse.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Generics\\ResultResponse.cs",
+              "ToolTip": "D:\\Proyectos\\Tests\\Calculadora\\Models\\Generics\\ResultResponse.cs",
+              "RelativeToolTip": "..\\Models\\Generics\\ResultResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:33:44.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FactorialValue.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Tests\\Calculadora\\Models\\FactorialValue.cs",
+              "RelativeDocumentMoniker": "..\\Models\\FactorialValue.cs",
+              "ToolTip": "D:\\Proyectos\\Tests\\Calculadora\\Models\\FactorialValue.cs",
+              "RelativeToolTip": "..\\Models\\FactorialValue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:34:59.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Addition.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Tests\\Calculadora\\Bussiness\\Operations\\Addition.cs",
+              "RelativeDocumentMoniker": "..\\Bussiness\\Operations\\Addition.cs",
+              "ToolTip": "D:\\Proyectos\\Tests\\Calculadora\\Bussiness\\Operations\\Addition.cs",
+              "RelativeToolTip": "..\\Bussiness\\Operations\\Addition.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:31:38.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperationBasic.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Tests\\Calculadora\\Models\\OperationBasic.cs",
+              "RelativeDocumentMoniker": "..\\Models\\OperationBasic.cs",
+              "ToolTip": "D:\\Proyectos\\Tests\\Calculadora\\Models\\OperationBasic.cs",
+              "RelativeToolTip": "..\\Models\\OperationBasic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:34:52.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Result.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Tests\\Calculadora\\Models\\Generics\\Result.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Generics\\Result.cs",
+              "ToolTip": "D:\\Proyectos\\Tests\\Calculadora\\Models\\Generics\\Result.cs",
+              "RelativeToolTip": "..\\Models\\Generics\\Result.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:06:38.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorMessage.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Tests\\Calculadora\\Models\\Generics\\ErrorMessage.cs",
+              "RelativeDocumentMoniker": "..\\Models\\Generics\\ErrorMessage.cs",
+              "ToolTip": "D:\\Proyectos\\Tests\\Calculadora\\Models\\Generics\\ErrorMessage.cs",
+              "RelativeToolTip": "..\\Models\\Generics\\ErrorMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:06:19.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Tests\\Calculadora\\ApiBack\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Proyectos\\Tests\\Calculadora\\ApiBack\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T18:59:55.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Tests\\Calculadora\\ApiBack\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CalculatorController.cs",
+              "ToolTip": "D:\\Proyectos\\Tests\\Calculadora\\ApiBack\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T18:48:48.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Tests\\Calculadora\\ApiBack\\Controllers\\BController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BController.cs",
+              "ToolTip": "D:\\Proyectos\\Tests\\Calculadora\\ApiBack\\Controllers\\BController.cs",
+              "RelativeToolTip": "Controllers\\BController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T18:47:35.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
